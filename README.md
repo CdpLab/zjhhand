@@ -34,4 +34,4 @@ python experiment/evaluation.py
 The results of InterHand2.6M dataset.
 <img src="https://github.com/zjhnightnight/hand/blob/main/InterHand.png" width="600" height="600" /><br/>
 
-<img src="https://github.com/zjhnightnight/hand/blob/main/2.png" width="600" height="600" /><br/>
+<img src="https://github.com/zjhnightnight/hand/blob/main/2.png" width="600" height="300" /><br/>
