@@ -32,4 +32,4 @@ python experiment/evaluation.py
 ```
 #######Results
 The results of InterHand2.6M dataset.
-![The results of InterHand2.6M dataset](https://github.com/zjhnightnight/hand/blob/main/1.png)
+![The results of InterHand2.6M dataset](https://github.com/zjhnightnight/hand/blob/main/InterHand.png)
