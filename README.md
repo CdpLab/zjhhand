@@ -32,5 +32,5 @@ python experiment/evaluation.py
 ```
 ####### Results
 The results of InterHand2.6M dataset.
-![The results of InterHand2.6M dataset](https://github.com/zjhnightnight/hand/blob/main/InterHand.png)
-<img src="https://github.com/zjhnightnight/hand/blob/main/InterHand.png" width="200" height="200" /><br/>
+
+<img src="https://github.com/zjhnightnight/hand/blob/main/InterHand.png" width="600" height="600" /><br/>
