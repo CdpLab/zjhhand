@@ -1,5 +1,5 @@
 ## Install
-Requires: Linux cuda11.8 python3.9 CUDA11.3
+Requires: ubuntu18.04.6 python3.9 cuda11.3
 
 ## packages
 - pytorch2.0.0
