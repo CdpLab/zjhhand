@@ -1,7 +1,7 @@
 ## Install
 Requires: Linux cuda11.8 python3.9 CUDA11.3
 
-# packages
+## packages
 - pytorch2.0.0
 - pytorch3d
 - numpy
