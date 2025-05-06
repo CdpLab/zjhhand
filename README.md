@@ -10,7 +10,7 @@ Requires: Linux cuda11.8 python3.9 CUDA11.3
 - cmake
 - imageio
 - matplotlib
-- 
+
 ###MANO
 download MANO data in [here](https://mano.is.tue.mpg.de/) and put MANO_LEFT.PKL and MANO_RIGHT.PKL in misc/mano
 
@@ -30,3 +30,6 @@ run the code below.You need to revise the weight file path which gets in the tra
 ```bash
 python experiment/evaluation.py
 ```
+#######Results
+The results of InterHand2.6M dataset.
+![The results of InterHand2.6M dataset]()
