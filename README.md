@@ -32,6 +32,8 @@ python experiment/evaluation.py
 ```
 ## Results
 The results of InterHand2.6M dataset.
+
 <img src="https://github.com/zjhnightnight/hand/blob/main/1.png" width="600" height="600" /><br/>
 The results of RGB2Hands and EgoHands dataset.
+
 <img src="https://github.com/zjhnightnight/hand/blob/main/2.png" width="600" height="350" /><br/>
